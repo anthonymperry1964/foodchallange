@@ -335,7 +335,7 @@ function drawGameOver() {
   textSize(20 * scaleFactor);
   text(`Score: ${score}`, width / 2, height / 2);
   text("Press SPACE or Tap Restart to retry.", width / 2, height / 2 + (50 * scaleFactor));
-  text("Download the REALGRRT APP now:", width / 2, height / 2 + (100 * scaleFactor));
+  text("Eat Healthy Download the REALGRRT APP now:", width / 2, height / 2 + (100 * scaleFactor));
   fill(0, 191, 255);
   text("https://realgrrtapp.com", width / 2, height / 2 + (130 * scaleFactor));
 }
